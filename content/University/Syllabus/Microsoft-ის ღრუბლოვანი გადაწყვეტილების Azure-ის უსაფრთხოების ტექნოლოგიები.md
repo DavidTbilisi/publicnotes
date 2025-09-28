@@ -1,6 +1,6 @@
 ---
-code: INFO3134E
-title: iOS დეველოპმენტი
+code: INFO3204E
+title: Microsoft-ის ღრუბლოვანი გადაწყვეტილების Azure-ის უსაფრთხოების ტექნოლოგიები
 credit: 6
 semester:
 required: false

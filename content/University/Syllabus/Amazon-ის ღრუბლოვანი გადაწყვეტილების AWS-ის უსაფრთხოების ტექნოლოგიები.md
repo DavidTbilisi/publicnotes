@@ -1,6 +1,6 @@
 ---
-code: INFO5550E
-title: Amazon - ის ღრუბლოვანი გადაწყვეტილების AWS-ის არქიტექტურა
+code: INFO3330E
+title: Amazon-ის ღრუბლოვანი გადაწყვეტილების AWS-ის უსაფრთხოების ტექნოლოგიები
 credit: 6
 semester:
 required: false
