@@ -6,7 +6,7 @@ semester:
 required: false
 status:
   - todo
-want: 2
+want: 1
 aliases:
 draft: true
 tags:

@@ -11,5 +11,6 @@ tags:
 description:
 permalink:
 date:
+want: 7
 ---
 

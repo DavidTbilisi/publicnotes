@@ -12,6 +12,7 @@ tags:
 description:
 permalink:
 date:
+want: 7
 ---
  
 The rest of your content lives here. You can use **Markdown** here :)#ugsyllabus
