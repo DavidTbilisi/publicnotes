@@ -71,17 +71,1328 @@
     "dailyActivity": [
       {
         "date": "2025-09-29",
-        "filePath": "index.md",
-        "wordCountStart": 44,
-        "charCountStart": 297,
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Business/Hacking.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 5
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Business/Honey.md",
+        "wordCountStart": 0,
+        "charCountStart": 11,
+        "changes": [],
+        "id": 6
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Business/Social media.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 7
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Business/Translation.md",
+        "wordCountStart": 2,
+        "charCountStart": 107,
+        "changes": [],
+        "id": 8
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Business/Udemy Courses.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 9
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Business/კრიტერიუმები.md",
+        "wordCountStart": 0,
+        "charCountStart": 185,
+        "changes": [],
+        "id": 10
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Business/მიას.md",
+        "wordCountStart": 0,
+        "charCountStart": 15,
+        "changes": [],
+        "id": 11
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Cynefin framework.md",
+        "wordCountStart": 16,
+        "charCountStart": 149,
+        "changes": [],
+        "id": 12
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Declutter.md",
+        "wordCountStart": 31,
+        "charCountStart": 266,
+        "changes": [],
+        "id": 13
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Lego Skills.md",
+        "wordCountStart": 658,
+        "charCountStart": 5991,
+        "changes": [],
+        "id": 14
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Books/The Book/Draft/Index.md",
+        "wordCountStart": 13,
+        "charCountStart": 128,
+        "changes": [],
+        "id": 15
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Books/The Book/Draft/The Son of His Father.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
         "changes": [
           {
-            "timeKey": "00:35",
+            "timeKey": "01:10",
+            "w": 702,
+            "c": 3913
+          },
+          {
+            "timeKey": "01:15",
+            "w": 0,
+            "c": 5
+          },
+          {
+            "timeKey": "01:20",
+            "w": -702,
+            "c": 5162
+          },
+          {
+            "timeKey": "01:25",
+            "w": 0,
+            "c": -3
+          }
+        ],
+        "id": 16
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Books/The Book/Draft/First Friend.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:15",
+            "w": 0,
+            "c": 3457
+          }
+        ],
+        "id": 17
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Books/The Book/Draft/Not Fully Friend.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:15",
+            "w": 1,
+            "c": 8471
+          }
+        ],
+        "id": 18
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Books/The Book/Draft/She.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:15",
+            "w": 0,
+            "c": 6009
+          }
+        ],
+        "id": 19
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Books/The Book/Draft/They left each other.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:15",
+            "w": 0,
+            "c": 10928
+          }
+        ],
+        "id": 20
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Books/The Book/Draft/The Father.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:20",
+            "w": 121,
+            "c": 679
+          },
+          {
+            "timeKey": "01:25",
+            "w": 0,
+            "c": 319
+          },
+          {
+            "timeKey": "01:30",
+            "w": 0,
+            "c": 387
+          },
+          {
+            "timeKey": "01:35",
+            "w": 0,
+            "c": 125
+          },
+          {
+            "timeKey": "01:40",
+            "w": 0,
+            "c": 371
+          },
+          {
+            "timeKey": "01:45",
+            "w": 0,
+            "c": 261
+          }
+        ],
+        "id": 21
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "content/University/Syllabus/000 - Dashboard.md",
+        "wordCountStart": 98,
+        "charCountStart": 753,
+        "changes": [
+          {
+            "timeKey": "01:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "02:30",
+            "w": 1,
+            "c": 11
+          },
+          {
+            "timeKey": "02:35",
+            "w": 4,
+            "c": 38
+          },
+          {
+            "timeKey": "02:50",
+            "w": -103,
+            "c": -802
+          }
+        ],
+        "id": 22
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "content/University/Syllabus/Amazon - ის ღრუბლოვანი გადაწყვეტილების AWS-ის არქიტექტურა.md",
+        "wordCountStart": 15,
+        "charCountStart": 163,
+        "changes": [
+          {
+            "timeKey": "01:55",
+            "w": 19,
+            "c": 128
+          },
+          {
+            "timeKey": "02:50",
+            "w": -34,
+            "c": -291
+          }
+        ],
+        "id": 23
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "content/University/Syllabus/Amazon-ის ღრუბლოვანი გადაწყვეტილების AWS-ის უსაფრთხოების ტექნოლოგიები.md",
+        "wordCountStart": 15,
+        "charCountStart": 175,
+        "changes": [
+          {
+            "timeKey": "01:55",
+            "w": 19,
+            "c": 128
+          },
+          {
+            "timeKey": "02:50",
+            "w": -34,
+            "c": -303
+          }
+        ],
+        "id": 24
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "content/University/Syllabus/Android აპლიკაციების დაპროგრამება.md",
+        "wordCountStart": 13,
+        "charCountStart": 127,
+        "changes": [
+          {
+            "timeKey": "01:55",
+            "w": 20,
+            "c": 144
+          },
+          {
+            "timeKey": "02:30",
+            "w": -14,
+            "c": -97
+          },
+          {
+            "timeKey": "02:50",
+            "w": -19,
+            "c": -174
+          }
+        ],
+        "id": 25
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "content/University/Syllabus/iOS დეველოპმენტი.md",
+        "wordCountStart": 14,
+        "charCountStart": 122,
+        "changes": [
+          {
+            "timeKey": "01:55",
+            "w": 20,
+            "c": 143
+          },
+          {
+            "timeKey": "02:30",
+            "w": -14,
+            "c": -97
+          },
+          {
+            "timeKey": "02:50",
+            "w": -20,
+            "c": -168
+          }
+        ],
+        "id": 26
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "content/University/Syllabus/IT სერვისების და პროექტების მართვა.md",
+        "wordCountStart": 20,
+        "charCountStart": 294,
+        "changes": [
+          {
+            "timeKey": "01:55",
+            "w": 20,
+            "c": 144
+          },
+          {
+            "timeKey": "02:50",
+            "w": -40,
+            "c": -438
+          }
+        ],
+        "id": 27
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "content/University/Syllabus/Microsoft - ის ღრუბლოვანი გადაწყვეტილების Azure-ის ადმინისტრირება.md",
+        "wordCountStart": 15,
+        "charCountStart": 171,
+        "changes": [
+          {
+            "timeKey": "01:55",
+            "w": 20,
+            "c": 143
+          },
+          {
+            "timeKey": "02:50",
+            "w": -35,
+            "c": -314
+          }
+        ],
+        "id": 28
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "content/University/Syllabus/Microsoft-ის ღრუბლოვანი გადაწყვეტილების Azure-ის უსაფრთხოების ტექნოლოგიები.md",
+        "wordCountStart": 15,
+        "charCountStart": 180,
+        "changes": [
+          {
+            "timeKey": "01:55",
+            "w": 20,
+            "c": 143
+          },
+          {
+            "timeKey": "02:50",
+            "w": -35,
+            "c": -323
+          }
+        ],
+        "id": 29
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "content/University/Syllabus/Oracle მონაცემთა ბაზის დიზაინი და პროგრამირება.md",
+        "wordCountStart": 24,
+        "charCountStart": 273,
+        "changes": [
+          {
+            "timeKey": "02:40",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "02:50",
+            "w": -24,
+            "c": -276
+          }
+        ],
+        "id": 30
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "content/University/Syllabus/WEB პროგრამირება ASP.NET MVC საშუალებით.md",
+        "wordCountStart": 15,
+        "charCountStart": 133,
+        "changes": [
+          {
+            "timeKey": "02:50",
+            "w": -15,
+            "c": -133
+          }
+        ],
+        "id": 31
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "content/University/Syllabus/არარელაციური მონაცემთა ბაზა MongoDB.md",
+        "wordCountStart": 14,
+        "charCountStart": 141,
+        "changes": [
+          {
+            "timeKey": "02:50",
+            "w": -14,
+            "c": -141
+          }
+        ],
+        "id": 32
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "content/University/Syllabus/კომპიუტერული ქსელები II.md",
+        "wordCountStart": 14,
+        "charCountStart": 129,
+        "changes": [
+          {
+            "timeKey": "02:50",
+            "w": -14,
+            "c": -129
+          }
+        ],
+        "id": 33
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "content/University/Syllabus/აკადემიური წერა.md",
+        "wordCountStart": 12,
+        "charCountStart": 113,
+        "changes": [
+          {
+            "timeKey": "02:30",
+            "w": 7,
+            "c": 58
+          },
+          {
+            "timeKey": "02:50",
+            "w": -19,
+            "c": -171
+          }
+        ],
+        "id": 34
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Business/Business index.md",
+        "wordCountStart": 343,
+        "charCountStart": 2372,
+        "changes": [],
+        "id": 35
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Management/Black Day.md",
+        "wordCountStart": 3,
+        "charCountStart": 37,
+        "changes": [],
+        "id": 36
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Management/Needs_Wants_Savings/Needs.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": 10,
+            "c": 290
+          }
+        ],
+        "id": 37
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Management/Needs_Wants_Savings/Wants.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": 18,
+            "c": 308
+          }
+        ],
+        "id": 38
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Management/Needs_Wants_Savings/Savings.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": 7,
+            "c": 84
+          }
+        ],
+        "id": 39
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Management/TBC.md",
+        "wordCountStart": 2,
+        "charCountStart": 27,
+        "changes": [],
+        "id": 40
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Management/BOG.md",
+        "wordCountStart": 2,
+        "charCountStart": 27,
+        "changes": [],
+        "id": 41
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Management/Cash.md",
+        "wordCountStart": 2,
+        "charCountStart": 27,
+        "changes": [],
+        "id": 42
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Management/Goals/მანქანა.md",
+        "wordCountStart": 2,
+        "charCountStart": 6,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 0,
+            "c": 10
+          }
+        ],
+        "id": 43
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Management/Goals/House.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 2,
+            "c": 16
+          }
+        ],
+        "id": 44
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Management/Vacation.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 2,
+            "c": 10
+          }
+        ],
+        "id": 45
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/03 Tactical_Memory/Career/CV.md",
+        "wordCountStart": 817,
+        "charCountStart": 7072,
+        "changes": [
+          {
+            "timeKey": "11:05",
+            "w": 9,
+            "c": 78
+          },
+          {
+            "timeKey": "11:45",
+            "w": 0,
+            "c": -146
+          },
+          {
+            "timeKey": "12:10",
+            "w": 1,
+            "c": 11
+          }
+        ],
+        "id": 46
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Diary/2025-09-29.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 98,
+            "c": 493
+          },
+          {
+            "timeKey": "12:05",
+            "w": 32,
+            "c": 190
+          },
+          {
+            "timeKey": "12:10",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 47
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Human/Identity.md",
+        "wordCountStart": 78,
+        "charCountStart": 690,
+        "changes": [
+          {
+            "timeKey": "12:05",
+            "w": 12,
+            "c": 98
+          }
+        ],
+        "id": 48
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/03 Tactical_Memory/Automation/Automation Index.md",
+        "wordCountStart": 17,
+        "charCountStart": 181,
+        "changes": [],
+        "id": 49
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Excalidraw/AutoHotKeys.excalidraw.md",
+        "wordCountStart": 320,
+        "charCountStart": 9151,
+        "changes": [],
+        "id": 50
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/01 Core_Memory/Math/Elementary School Math/Elementary School Math.md",
+        "wordCountStart": 25,
+        "charCountStart": 233,
+        "changes": [],
+        "id": 51
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/01 Core_Memory/Math/Elementary School Math/Proof.md",
+        "wordCountStart": 4,
+        "charCountStart": 60,
+        "changes": [],
+        "id": 52
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/01 Core_Memory/Math/Elementary School Math/აქსიომა.md",
+        "wordCountStart": 0,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 53
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/01 Core_Memory/Math/Elementary School Math/თეორემა.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 54
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/01 Core_Memory/Math/Elementary School Math/If and only if.md",
+        "wordCountStart": 60,
+        "charCountStart": 372,
+        "changes": [],
+        "id": 55
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/01 Core_Memory/Math/Elementary School Math/Implication.md",
+        "wordCountStart": 86,
+        "charCountStart": 726,
+        "changes": [],
+        "id": 56
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/01 Core_Memory/Math/Elementary School Math/Logical Phrases.md",
+        "wordCountStart": 8,
+        "charCountStart": 150,
+        "changes": [],
+        "id": 57
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/01 Core_Memory/Math/Elementary School Math/Math Induction.md",
+        "wordCountStart": 76,
+        "charCountStart": 591,
+        "changes": [],
+        "id": 58
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/01 Core_Memory/Math/Elementary School Math/Necessary vs Sufficient.md",
+        "wordCountStart": 73,
+        "charCountStart": 811,
+        "changes": [],
+        "id": 59
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/01 Core_Memory/ABC_KA.md",
+        "wordCountStart": 49,
+        "charCountStart": 3249,
+        "changes": [],
+        "id": 60
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/01 Core_Memory/Attention.md",
+        "wordCountStart": 226,
+        "charCountStart": 2269,
+        "changes": [],
+        "id": 61
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Neural OS/01 Core_Memory/Epistemology.md",
+        "wordCountStart": 675,
+        "charCountStart": 5436,
+        "changes": [],
+        "id": 62
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/Programming/Programming Languages.md",
+        "wordCountStart": 23,
+        "charCountStart": 229,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 1,
+            "c": 8
+          }
+        ],
+        "id": 63
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/Programming/Ruby.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 11,
+            "c": 101
+          },
+          {
+            "timeKey": "10:30",
+            "w": 12,
+            "c": 121
+          },
+          {
+            "timeKey": "20:50",
+            "w": 5,
+            "c": 37
+          },
+          {
+            "timeKey": "21:00",
+            "w": 0,
+            "c": -3
+          }
+        ],
+        "id": 64
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Business/Business index.md",
+        "wordCountStart": 343,
+        "charCountStart": 2372,
+        "changes": [],
+        "id": 65
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Management/TBC.md",
+        "wordCountStart": 2,
+        "charCountStart": 27,
+        "changes": [],
+        "id": 66
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Management/Tula.Co.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 6,
+            "c": 50
+          }
+        ],
+        "id": 67
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Management/Academy of Digital Industries.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 6,
+            "c": 49
+          }
+        ],
+        "id": 68
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Management/ინდმეწარმის დღგ.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": 3,
+            "c": 39
+          },
+          {
+            "timeKey": "10:45",
+            "w": 2,
+            "c": 27
+          }
+        ],
+        "id": 69
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Neural OS/03 Tactical_Memory/Career/CV.md",
+        "wordCountStart": 827,
+        "charCountStart": 7015,
+        "changes": [],
+        "id": 70
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "content/index.md",
+        "wordCountStart": 14,
+        "charCountStart": 118,
+        "changes": [],
+        "id": 71
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "2025-09-30.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:15",
             "w": 0,
             "c": 0
           }
         ],
-        "id": 1
+        "id": 72
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Neural OS/03 Tactical_Memory/Automation/Automation Index.md",
+        "wordCountStart": 17,
+        "charCountStart": 181,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 73
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Neural OS/03 Tactical_Memory/Companies/Current Salary.md",
+        "wordCountStart": 28,
+        "charCountStart": 195,
+        "changes": [],
+        "id": 74
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "content/University/Cyber Security/Certifications.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": 24,
+            "c": 203
+          },
+          {
+            "timeKey": "22:00",
+            "w": -12,
+            "c": -71
+          },
+          {
+            "timeKey": "22:05",
+            "w": 19,
+            "c": 165
+          },
+          {
+            "timeKey": "22:10",
+            "w": 81,
+            "c": 601
+          },
+          {
+            "timeKey": "22:15",
+            "w": 0,
+            "c": 9
+          }
+        ],
+        "id": 75
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "content/Templates/Default Page.md",
+        "wordCountStart": 23,
+        "charCountStart": 173,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": -11,
+            "c": -60
+          }
+        ],
+        "id": 76
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "content/University/Cyber Security/Virtual Machine.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": -1,
+            "c": -16
+          },
+          {
+            "timeKey": "22:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "22:15",
+            "w": 34,
+            "c": 264
+          }
+        ],
+        "id": 77
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/AWS Cert/AWS.md",
+        "wordCountStart": 40,
+        "charCountStart": 301,
+        "changes": [],
+        "id": 78
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/AWS Cert/AWS Associate.md",
+        "wordCountStart": 130,
+        "charCountStart": 1175,
+        "changes": [],
+        "id": 79
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/AWS Cert/CDN.md",
+        "wordCountStart": 3,
+        "charCountStart": 24,
+        "changes": [],
+        "id": 80
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/AWS Cert/Data Center.md",
+        "wordCountStart": 248,
+        "charCountStart": 2018,
+        "changes": [],
+        "id": 81
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/CyberSec/Bug Bounty/Bug Bounty Index.md",
+        "wordCountStart": 35,
+        "charCountStart": 270,
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 82
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/CyberSec/Bug Bounty/Virtual Machine.md",
+        "wordCountStart": 13,
+        "charCountStart": 79,
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": 0,
+            "c": -2
+          }
+        ],
+        "id": 83
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Diary/2025-10-01.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:15",
+            "w": 63,
+            "c": 309
+          },
+          {
+            "timeKey": "11:20",
+            "w": 43,
+            "c": 238
+          },
+          {
+            "timeKey": "11:25",
+            "w": 1,
+            "c": 9
+          }
+        ],
+        "id": 84
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Other/Movies/movies/Absolute sword sense.md.md",
+        "wordCountStart": 24,
+        "charCountStart": 197,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": 3,
+            "c": 33
+          }
+        ],
+        "id": 85
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Other/Movies/movies/Pantheon (2022–2023).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": 22,
+            "c": 159
+          },
+          {
+            "timeKey": "12:15",
+            "w": 2,
+            "c": 19
+          }
+        ],
+        "id": 86
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Other/Movies/movies/Dark Matter (2024).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": 23,
+            "c": 169
+          }
+        ],
+        "id": 87
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Other/Movies/movies/Scavengers Reign (2023).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 24,
+            "c": 194
+          }
+        ],
+        "id": 88
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Other/Movies/movies/The Power (2023).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 25,
+            "c": 233
+          }
+        ],
+        "id": 89
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Other/Movies/movies/Subterranea (2024).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 24,
+            "c": 225
+          },
+          {
+            "timeKey": "12:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 90
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Other/Movies/movies/The Lazarus Project (2022–2023).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": 26,
+            "c": 236
+          }
+        ],
+        "id": 91
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Other/Movies/movies/Moonhaven (2022).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": 23,
+            "c": 164
+          }
+        ],
+        "id": 92
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Other/Movies/movies/Your Forma (2025).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": 97,
+            "c": 651
+          },
+          {
+            "timeKey": "12:25",
+            "w": 6,
+            "c": 55
+          }
+        ],
+        "id": 93
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Other/Movies/movies/Heavenly Delusion (2023).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:25",
+            "w": 33,
+            "c": 271
+          }
+        ],
+        "id": 94
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Other/Movies/movies/Pluto (2023).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:25",
+            "w": 21,
+            "c": 147
+          }
+        ],
+        "id": 95
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Other/Movies/movies/Metallic Rouge (2024).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:25",
+            "w": 22,
+            "c": 213
+          }
+        ],
+        "id": 96
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Other/Movies/movies/Murder Mystery of the Dead (2024).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": 29,
+            "c": 236
+          }
+        ],
+        "id": 97
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Other/Movies/movies/BET.md.md",
+        "wordCountStart": 10,
+        "charCountStart": 103,
+        "changes": [],
+        "id": 98
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Other/Movies/movies/life of chuck.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:50",
+            "w": 26,
+            "c": 177
+          }
+        ],
+        "id": 99
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Other/Movies/movies/The accountant 2.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 100
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Automate.md",
+        "wordCountStart": 343,
+        "charCountStart": 2441,
+        "changes": [],
+        "id": 101
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Automation todos.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": 7,
+            "c": 43
+          }
+        ],
+        "id": 102
       }
     ]
   }
