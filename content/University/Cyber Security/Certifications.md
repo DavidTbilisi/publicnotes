@@ -1,7 +1,7 @@
 ---
 aliases:
 title: Security Certification
-draft: true
+draft: false
 tags:
   - certifications
   - CyberSecurity
