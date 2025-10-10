@@ -1,7 +1,14 @@
 ---
 tags:
   - it/hacking
+aliases:
+title: Hashcat Cheat sheet
+draft: false
+description:
+permalink:
+date: 2025-10-10
 ---
+ 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yvNKuZqRmJ4?si=NtArqBMVhsSqMK1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

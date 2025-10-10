@@ -20,25 +20,20 @@
 ## 1. **Enumerate System Information**
 
 - OS version, kernel version
-    
-    ```bash
-    uname -a
-    cat /etc/os-release
-    systeminfo (Windows)
-    ```
-    
+```bash
+uname -a
+cat /etc/os-release
+systeminfo (Windows)
+```
 - Installed patches & updates status
-    
 - Architecture (x86, x64)
-    
 - User and group info
-    
-    ```bash
-    id
-    whoami
-    net user (Windows)
-    ```
-    
+```bash
+id
+whoami
+net user (Windows)
+```
+
 
 ---
 
@@ -47,9 +42,9 @@
 - Are you running as a normal user or admin/root?
 - List current user groups
 - Check sudo privileges without password
-    ```bash
-    sudo -l
-    ```
+```bash
+sudo -l
+```
 ---
 
 ## 3. **Search for Sensitive Files & Configs**
@@ -61,19 +56,19 @@
 ## 4. **Check for SUID/SGID Executables (Linux)**
 
 - Find binaries with elevated permissions
-    ```bash
-    find / -perm -4000 -type f 2>/dev/null
-    find / -perm -2000 -type f 2>/dev/null
-    ```
+```bash
+find / -perm -4000 -type f 2>/dev/null
+find / -perm -2000 -type f 2>/dev/null
+```
 - Identify any vulnerable versions or misconfigured SUID binaries
 
 ---
 
 ## 5. **Check for Writable Files and Directories**
 - Look for writable files owned by root/admin or binaries in PATH
-    ```bash
-    find / -writable -type f 2>/dev/null
-    ```
+```bash
+find / -writable -type f 2>/dev/null
+```
 - Writable scripts, config files used by services
 - Windows: Search for writable folders in Program Files or service directories
 
@@ -82,9 +77,9 @@
 ## 6. **Look for Passwords or Tokens**
 
 - Environment variables
-    ```bash
-    env
-    ```
+```bash
+env
+```
 - Check bash history, PowerShell history
 - Windows Credentials Manager or saved passwords
 - Look for API keys or tokens in configs or logs
@@ -94,25 +89,25 @@
 ## 7. **Analyze Scheduled Tasks / Cron Jobs**
 
 - Linux:
-    ```bash
-    crontab -l
-    cat /etc/crontab
-    ls -la /etc/cron.*
-    ```
+```bash
+crontab -l
+cat /etc/crontab
+ls -la /etc/cron.*
+```
 - Windows:
-    ```powershell
-    schtasks /query /fo LIST /v
-    ```
+```powershell
+schtasks /query /fo LIST /v
+```
 - Look for scripts or programs running with elevated privileges you can hijack
 
 ---
 
 ## 8. **Check Network and Services**
 - List open ports and services
-    ```bash
-    ss -tuln
-    netstat -ano (Windows)
-    ```
+```bash
+ss -tuln
+netstat -ano (Windows)
+```
 - Look for vulnerable services or misconfigurations
 - Check service executable paths for writable locations
 

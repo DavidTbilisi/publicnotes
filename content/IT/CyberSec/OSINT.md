@@ -1,27 +1,15 @@
 ---
 tags:
   - it/cybersecurity
+  - example-tag
+aliases:
+title: OSINT
+draft: true
+description:
+permalink:
+date: 2025-10-10
 ---
-https://voters.cec.gov.ge/
-https://what3words.com/
-[C.A.S.E](https://www.globalcase.org/en/courses/summer-school/)
-
-[[UG Hacking|UG Hacking]]
-[[Neural OS/03 Tactical_Memory/IT/CyberSec/Hacking|Hacking]]
-
-[Counterintelligence](https://en.wikipedia.org/wiki/Counterintelligence)
-
-[Intel vs counterIntel](https://www.youtube.com/watch?v=o9CaEMZQ03c)
-
-
-
-[IntelTechniques-Open-Source-Intelligence-OSINT-Course.23.10](file:///D:%5CVideos%5CIntelTechniques-Open-Source-Intelligence-OSINT-Course.23.10)
-
-[OSINT Fundamentals](file:///D:%5CVideos%5COSINT%20Fundamentals)
-
-
-
-
+ 
 ## Valuable information Characteristics
 - Accurate - Wrong info = wrong decision
 - Timely - Late info is useless

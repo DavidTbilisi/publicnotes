@@ -78,11 +78,12 @@ cat /etc/shadow
 raj:$y$j9T$5KGIS/2Ug.47GjW0jHOIB/$XwYUafYPh/petN8gKSJuLt5CEbBya3dW3pIgwrS3eJB:19447:0:99999:7:::
 ```
 
-![[shadow.png]]
+![TecAdmin](https://tecadmin.net/wp-content/uploads/2022/12/linux-etc-shadow-file.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0jcVfiqHr6gUk36CPjo_iDCSwgmPvniJ1fsJwrpw0Fryms8HeYUVJh6sJ3GNzxwVcfDO9_jBN2aJ7LKg2ZmsBhwhwJf0Cl-NBAWTPz6GLe7A55xZ6ZECTjJuQ4Q4ZGPPOcsu5ewiGlyI/s1600/tux_etc_passwd.jpg)
 
 ```bash
 cat /etc/group
 
 ```
 
-![[Pasted image 20250518154344.png]]
+![](https://devconnected.com/wp-content/uploads/2019/09/etc-group-file.png)

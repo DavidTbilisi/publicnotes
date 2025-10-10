@@ -1,1 +1,1 @@
-![[use_misuse_case.png]]
+![[use_misuse_cases.png]]
