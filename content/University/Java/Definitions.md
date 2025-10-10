@@ -9,19 +9,15 @@ description:
 permalink: https://www.geeksforgeeks.org/java/differences-jdk-jre-jvm/
 date: 2025-10-09
 ---
-**String literal** - zero or more characters enclosed in double quotes 
-
-**Statement** - complete instruction that tells a program to do something
-
-**Expression** - coding construct that produces a single value when evaluated
+**String literal** - zero or more characters enclosed in double quotes <br/>
+**Statement** - complete instruction that tells a program to do something <br/>
+**Expression** - coding construct that produces a single value when evaluated <br/>
 
 
 
-**JDK** - Java Development Kit
-
-**JRE** - Java Runtime Environment
-
-**JVM** - Java Virtual Machine
+**JDK** - Java Development Kit <br/>
+**JRE** - Java Runtime Environment <br/>
+**JVM** - Java Virtual Machine <br/>
 
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20251003165228816476/jvm.webp)

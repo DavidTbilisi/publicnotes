@@ -1393,6 +1393,81 @@
           }
         ],
         "id": 102
+      },
+      {
+        "date": "2025-10-09",
+        "filePath": "content/University/Cyber Security/Virtual Machine.md",
+        "wordCountStart": 33,
+        "charCountStart": 248,
+        "changes": [],
+        "id": 260
+      },
+      {
+        "date": "2025-10-09",
+        "filePath": "content/University/Cyber Security/Certifications.md",
+        "wordCountStart": 112,
+        "charCountStart": 907,
+        "changes": [
+          {
+            "timeKey": "07:50",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 261
+      },
+      {
+        "date": "2025-10-09",
+        "filePath": "content/University/Java/Definitions.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": 111,
+            "c": 876
+          },
+          {
+            "timeKey": "08:00",
+            "w": 2,
+            "c": 578
+          },
+          {
+            "timeKey": "08:05",
+            "w": 27,
+            "c": 208
+          },
+          {
+            "timeKey": "08:10",
+            "w": 0,
+            "c": 7
+          }
+        ],
+        "id": 262
+      },
+      {
+        "date": "2025-10-09",
+        "filePath": "content/University/Java/History.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": 14,
+            "c": 116
+          },
+          {
+            "timeKey": "08:10",
+            "w": 2,
+            "c": 1
+          },
+          {
+            "timeKey": "08:15",
+            "w": 331,
+            "c": 2566
+          }
+        ],
+        "id": 263
       }
     ]
   }
