@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6f744cf61bab8689","x":-280,"y":-280,"width":250,"height":60,"type":"text","text":"# .env"},
+		{"id":"eed86c67669ee5bb","x":80,"y":-280,"width":250,"height":60,"type":"text","text":"# config.py"},
+		{"id":"55a45ee352dada15","type":"text","text":"# database.py","x":420,"y":-280,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"6064513130bde8d0","fromNode":"6f744cf61bab8689","fromSide":"right","toNode":"eed86c67669ee5bb","toSide":"left"},
+		{"id":"a241a1223f97918c","fromNode":"eed86c67669ee5bb","fromSide":"right","toNode":"55a45ee352dada15","toSide":"left"}
+	]
+}
