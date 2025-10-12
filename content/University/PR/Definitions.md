@@ -45,6 +45,8 @@ Public relations: strategies and tactics (eleventh ed)	Wilcox,Dennis L., Cameron
 |**Advertising**|Commercial|Persuade to buy or act|Specific|One-way (paid media)|**Competition:** other brands|Tactical; supports marketing goals|Short Term|Direct (paid by sponsor)|
 |**Marketing**|Commercial|Create demand and loyalty|Targeted|Multi-channel (owned, paid, earned)|**Competition:** rivals in market|Strategic business function|Short to Medium|Direct (profit-driven)|
 |**PR (Public Relations)**|Social/Corporate|Build goodwill and reputation|Broad to targeted|Two-way (media, social, events)|**Opposition:** misinformation, crisis|Strategic advisory to management|Long Term|Indirect (salary, contract)|
+## Integrated marketing communications (IMC)
+
 
 ### **PR Skills Breakdown**
 
