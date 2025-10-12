@@ -1468,6 +1468,640 @@
           }
         ],
         "id": 263
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/University/Cyber Security/Virtual Machine.md",
+        "wordCountStart": 33,
+        "charCountStart": 248,
+        "changes": [],
+        "id": 272
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/University/Java/Definitions.md",
+        "wordCountStart": 140,
+        "charCountStart": 1669,
+        "changes": [
+          {
+            "timeKey": "09:15",
+            "w": 6,
+            "c": 31
+          }
+        ],
+        "id": 273
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/University/Java/History.md",
+        "wordCountStart": 347,
+        "charCountStart": 2683,
+        "changes": [],
+        "id": 274
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/University/PR/Definitions.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "09:20",
+            "w": 101,
+            "c": 1484
+          },
+          {
+            "timeKey": "09:25",
+            "w": 0,
+            "c": -5
+          }
+        ],
+        "id": 275
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "I Want To Know/Cybersec.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 276
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/CyberSec/CISSP/Misuse Cases.md",
+        "wordCountStart": 2,
+        "charCountStart": 24,
+        "changes": [
+          {
+            "timeKey": "09:25",
+            "w": -2,
+            "c": -24
+          }
+        ],
+        "id": 277
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/CyberSec/CISSP/Attack Surface.md",
+        "wordCountStart": 7,
+        "charCountStart": 67,
+        "changes": [
+          {
+            "timeKey": "09:25",
+            "w": -7,
+            "c": -67
+          }
+        ],
+        "id": 278
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/CyberSec/CISSP/D0 - Overview.md",
+        "wordCountStart": 144,
+        "charCountStart": 1057,
+        "changes": [
+          {
+            "timeKey": "09:25",
+            "w": -144,
+            "c": -1057
+          }
+        ],
+        "id": 279
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/AWS Cert/AWS.md",
+        "wordCountStart": 40,
+        "charCountStart": 301,
+        "changes": [
+          {
+            "timeKey": "09:40",
+            "w": -40,
+            "c": -301
+          }
+        ],
+        "id": 280
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/AWS Cert/AWS Associate.md",
+        "wordCountStart": 130,
+        "charCountStart": 1175,
+        "changes": [
+          {
+            "timeKey": "09:40",
+            "w": -130,
+            "c": -1175
+          }
+        ],
+        "id": 281
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/AWS Cert/AWS Professional.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "09:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 282
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/AWS Cert/CDN.md",
+        "wordCountStart": 3,
+        "charCountStart": 24,
+        "changes": [
+          {
+            "timeKey": "09:40",
+            "w": -3,
+            "c": -24
+          }
+        ],
+        "id": 283
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/AWS Cert/Data Center.md",
+        "wordCountStart": 248,
+        "charCountStart": 2018,
+        "changes": [
+          {
+            "timeKey": "09:40",
+            "w": -248,
+            "c": -2018
+          }
+        ],
+        "id": 284
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/Computer Architecture/Computer architecture index.md",
+        "wordCountStart": 12,
+        "charCountStart": 101,
+        "changes": [],
+        "id": 285
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/Computer Architecture/CPU - Central Processing Unit.md",
+        "wordCountStart": 216,
+        "charCountStart": 1570,
+        "changes": [],
+        "id": 286
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/Computer Architecture/GPU - Graphical Processing Unit.md",
+        "wordCountStart": 241,
+        "charCountStart": 1830,
+        "changes": [],
+        "id": 287
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/Computer Architecture/RAM - Random Access Memory.md",
+        "wordCountStart": 210,
+        "charCountStart": 1678,
+        "changes": [
+          {
+            "timeKey": "09:25",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 288
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/Bug Bounty/Bug Bounty Index.md",
+        "wordCountStart": 35,
+        "charCountStart": 269,
+        "changes": [],
+        "id": 289
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/Programming/PHP.md",
+        "wordCountStart": 3,
+        "charCountStart": 45,
+        "changes": [],
+        "id": 290
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/CURL.md",
+        "wordCountStart": 396,
+        "charCountStart": 2866,
+        "changes": [],
+        "id": 291
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/HackTheBox/Sightless/Sightless Index.md",
+        "wordCountStart": 30,
+        "charCountStart": 197,
+        "changes": [
+          {
+            "timeKey": "09:25",
+            "w": -30,
+            "c": -197
+          }
+        ],
+        "id": 292
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/CPSA exam.md",
+        "wordCountStart": 4497,
+        "charCountStart": 43240,
+        "changes": [],
+        "id": 293
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/Ports/20 FTP data.md",
+        "wordCountStart": 16,
+        "charCountStart": 95,
+        "changes": [],
+        "id": 294
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/Ports/21 FTP (Control).md",
+        "wordCountStart": 16,
+        "charCountStart": 98,
+        "changes": [],
+        "id": 295
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/Ports/22 SSH.md",
+        "wordCountStart": 16,
+        "charCountStart": 91,
+        "changes": [],
+        "id": 296
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/Linux/FFmpeg.md",
+        "wordCountStart": 123,
+        "charCountStart": 1487,
+        "changes": [],
+        "id": 297
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/Youtube Channels.md",
+        "wordCountStart": 16,
+        "charCountStart": 148,
+        "changes": [],
+        "id": 298
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/Linux/OPENSSL.md",
+        "wordCountStart": 488,
+        "charCountStart": 3795,
+        "changes": [],
+        "id": 299
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/Linux/rclone.md",
+        "wordCountStart": 38,
+        "charCountStart": 248,
+        "changes": [],
+        "id": 300
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/Linux/Terminal.md",
+        "wordCountStart": 6,
+        "charCountStart": 64,
+        "changes": [],
+        "id": 301
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/Linux/VIM.md",
+        "wordCountStart": 14,
+        "charCountStart": 112,
+        "changes": [],
+        "id": 302
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/CISSP/D0 - Overview.md",
+        "wordCountStart": 144,
+        "charCountStart": 1057,
+        "changes": [
+          {
+            "timeKey": "09:30",
+            "w": 16,
+            "c": 128
+          }
+        ],
+        "id": 303
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/CISSP/D1 Security and Risk Management.md",
+        "wordCountStart": 680,
+        "charCountStart": 6289,
+        "changes": [
+          {
+            "timeKey": "09:30",
+            "w": 17,
+            "c": 128
+          },
+          {
+            "timeKey": "09:35",
+            "w": 8,
+            "c": 134
+          }
+        ],
+        "id": 304
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/CISSP/D2 Asset Security.md",
+        "wordCountStart": 367,
+        "charCountStart": 3180,
+        "changes": [
+          {
+            "timeKey": "09:30",
+            "w": -7,
+            "c": -62
+          },
+          {
+            "timeKey": "09:35",
+            "w": 19,
+            "c": 185
+          }
+        ],
+        "id": 305
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/CyberSec/CISSP/D1 Security and Risk Management.md",
+        "wordCountStart": 680,
+        "charCountStart": 6289,
+        "changes": [],
+        "id": 306
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/CyberSec/CISSP/D2 Asset Security.md",
+        "wordCountStart": 367,
+        "charCountStart": 3180,
+        "changes": [],
+        "id": 307
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/UG Hacking.md",
+        "wordCountStart": 69,
+        "charCountStart": 612,
+        "changes": [
+          {
+            "timeKey": "09:40",
+            "w": -69,
+            "c": -612
+          }
+        ],
+        "id": 308
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/Privesc.md",
+        "wordCountStart": 806,
+        "charCountStart": 6226,
+        "changes": [
+          {
+            "timeKey": "09:40",
+            "w": 0,
+            "c": -165
+          },
+          {
+            "timeKey": "09:45",
+            "w": 0,
+            "c": -4
+          }
+        ],
+        "id": 309
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/OSINT.md",
+        "wordCountStart": 638,
+        "charCountStart": 5221,
+        "changes": [
+          {
+            "timeKey": "09:45",
+            "w": -56,
+            "c": -472
+          }
+        ],
+        "id": 310
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/Opportunities in Georgia Cybersecurity.md",
+        "wordCountStart": 3202,
+        "charCountStart": 21330,
+        "changes": [
+          {
+            "timeKey": "09:45",
+            "w": -3202,
+            "c": -21330
+          }
+        ],
+        "id": 311
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/oAuth2.md",
+        "wordCountStart": 6,
+        "charCountStart": 48,
+        "changes": [],
+        "id": 312
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/NetCat.md",
+        "wordCountStart": 10,
+        "charCountStart": 75,
+        "changes": [],
+        "id": 313
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/Hashcat.md",
+        "wordCountStart": 150,
+        "charCountStart": 1386,
+        "changes": [
+          {
+            "timeKey": "09:45",
+            "w": 13,
+            "c": 92
+          }
+        ],
+        "id": 314
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/Hacking.md",
+        "wordCountStart": 349,
+        "charCountStart": 2973,
+        "changes": [
+          {
+            "timeKey": "09:50",
+            "w": 20,
+            "c": 302
+          },
+          {
+            "timeKey": "09:55",
+            "w": 6,
+            "c": 39
+          }
+        ],
+        "id": 315
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/Google dorking.md",
+        "wordCountStart": 9,
+        "charCountStart": 105,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": 16,
+            "c": 119
+          },
+          {
+            "timeKey": "10:00",
+            "w": 12,
+            "c": 102
+          }
+        ],
+        "id": 316
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/Bug Bounty/Bug Bounty Web.md",
+        "wordCountStart": 6159,
+        "charCountStart": 35336,
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": 14,
+            "c": -7
+          }
+        ],
+        "id": 317
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/Bug Bounty/SQLMap.md",
+        "wordCountStart": 72,
+        "charCountStart": 492,
+        "changes": [],
+        "id": 318
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/Bug Bounty/Virtual Machine.md",
+        "wordCountStart": 13,
+        "charCountStart": 77,
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": -13,
+            "c": -77
+          }
+        ],
+        "id": 319
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/CISSP/Attack Surface.md",
+        "wordCountStart": 7,
+        "charCountStart": 66,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": 16,
+            "c": 128
+          }
+        ],
+        "id": 320
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/CISSP/D3 Security Architecture and Engineering.md",
+        "wordCountStart": 288,
+        "charCountStart": 2377,
+        "changes": [],
+        "id": 321
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/CISSP/D4 Communication and Network Security.md",
+        "wordCountStart": 126,
+        "charCountStart": 910,
+        "changes": [],
+        "id": 322
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/CISSP/D5 Identity and Access Management (IAM).md",
+        "wordCountStart": 34,
+        "charCountStart": 310,
+        "changes": [],
+        "id": 323
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/CISSP/D6 Security Assessment and Testing.md",
+        "wordCountStart": 58,
+        "charCountStart": 467,
+        "changes": [],
+        "id": 324
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/CISSP/D7 Security Operations.md",
+        "wordCountStart": 37,
+        "charCountStart": 326,
+        "changes": [],
+        "id": 325
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/CISSP/D8 Software Development Security.md",
+        "wordCountStart": 755,
+        "charCountStart": 6214,
+        "changes": [],
+        "id": 326
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "content/IT/CyberSec/CISSP/Misuse Cases.md",
+        "wordCountStart": 2,
+        "charCountStart": 24,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 327
       }
     ]
   }
