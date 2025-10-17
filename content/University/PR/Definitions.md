@@ -39,6 +39,10 @@ Public relations: strategies and tactics (eleventh ed)	Wilcox,Dennis L., Cameron
 - **Marketing** integrates all promotional tools for business growth.
 - **PR** sustains trust and reputation through long-term communication.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/coIP5Xa3GmM?si=RIwcaJG6TzE_39AK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 |Field|Scope|Objectives|Audiences|Channels|Competition vs. Opposition|Role in Management|Longevity|Payment|
 |---|---|---|---|---|---|---|---|---|
 |**Journalism**|Public affairs|Provide verified information|Broad|One-way (mass media)|**Competition:** other media outlets|Independent of management; watchdog role|Medium to Long|Indirect (salary, ads)|
@@ -60,6 +64,9 @@ Public relations: strategies and tactics (eleventh ed)	Wilcox,Dennis L., Cameron
 ||**Business Competence**|Understanding finance, operations, and organizational structure to align PR with business outcomes.|
 |**Digital Expertise**|**Social Media Management**|Building and protecting brand presence online; engaging audiences across platforms.|
 |**Interpersonal**|**Relationship Building**|Maintaining networks with journalists, influencers, and key stakeholders.|
+
+
+Public relations work includes the following specializations: counseling, media relations, publicity, community relations, governmental affairs, employee relations, investor relations, development/fund-raising, special events, and marketing communications.
 
 ---
 

@@ -68,7 +68,8 @@
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
     "daysWithCompletedGoal": [
-      "2025-10-12"
+      "2025-10-12",
+      "2025-10-15"
     ],
     "dailyActivity": [
       {
@@ -1511,11 +1512,6 @@
             "timeKey": "09:20",
             "w": 101,
             "c": 1484
-          },
-          {
-            "timeKey": "09:25",
-            "w": 0,
-            "c": -5
           }
         ],
         "id": 275
@@ -1571,622 +1567,548 @@
         "id": 279
       },
       {
-        "date": "2025-10-10",
-        "filePath": "content/IT/AWS Cert/AWS.md",
-        "wordCountStart": 40,
-        "charCountStart": 301,
-        "changes": [
-          {
-            "timeKey": "09:40",
-            "w": -40,
-            "c": -301
-          }
-        ],
-        "id": 280
+        "date": "2025-10-11",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/CyberSec/CISSP/Misuse Cases.md",
+        "wordCountStart": 2,
+        "charCountStart": 24,
+        "changes": [],
+        "id": 328
       },
       {
-        "date": "2025-10-10",
-        "filePath": "content/IT/AWS Cert/AWS Associate.md",
-        "wordCountStart": 130,
-        "charCountStart": 1175,
-        "changes": [
-          {
-            "timeKey": "09:40",
-            "w": -130,
-            "c": -1175
-          }
-        ],
-        "id": 281
+        "date": "2025-10-12",
+        "filePath": "Excalidraw/Braille.excalidraw.md",
+        "wordCountStart": 17482,
+        "charCountStart": 530909,
+        "changes": [],
+        "id": 335
       },
       {
-        "date": "2025-10-10",
-        "filePath": "content/IT/AWS Cert/AWS Professional.md",
+        "date": "2025-10-12",
+        "filePath": "Family/Mia.md",
+        "wordCountStart": 37,
+        "charCountStart": 262,
+        "changes": [],
+        "id": 336
+      },
+      {
+        "date": "2025-10-12",
+        "filePath": "Family/Emotional Development.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
           {
-            "timeKey": "09:40",
+            "timeKey": "12:15",
+            "w": 56,
+            "c": 496
+          },
+          {
+            "timeKey": "12:20",
+            "w": 47,
+            "c": 397
+          },
+          {
+            "timeKey": "12:25",
+            "w": 2,
+            "c": 21
+          }
+        ],
+        "id": 337
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Family/Emotional Development.md",
+        "wordCountStart": 105,
+        "charCountStart": 914,
+        "changes": [
+          {
+            "timeKey": "10:10",
             "w": 0,
             "c": 0
           }
         ],
-        "id": 282
+        "id": 339
       },
       {
-        "date": "2025-10-10",
-        "filePath": "content/IT/AWS Cert/CDN.md",
-        "wordCountStart": 3,
-        "charCountStart": 24,
-        "changes": [
-          {
-            "timeKey": "09:40",
-            "w": -3,
-            "c": -24
-          }
-        ],
-        "id": 283
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/AWS Cert/Data Center.md",
-        "wordCountStart": 248,
-        "charCountStart": 2018,
-        "changes": [
-          {
-            "timeKey": "09:40",
-            "w": -248,
-            "c": -2018
-          }
-        ],
-        "id": 284
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/Computer Architecture/Computer architecture index.md",
-        "wordCountStart": 12,
-        "charCountStart": 101,
-        "changes": [],
-        "id": 285
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/Computer Architecture/CPU - Central Processing Unit.md",
-        "wordCountStart": 216,
-        "charCountStart": 1570,
-        "changes": [],
-        "id": 286
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/Computer Architecture/GPU - Graphical Processing Unit.md",
-        "wordCountStart": 241,
-        "charCountStart": 1830,
-        "changes": [],
-        "id": 287
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/Computer Architecture/RAM - Random Access Memory.md",
-        "wordCountStart": 210,
-        "charCountStart": 1678,
-        "changes": [
-          {
-            "timeKey": "09:25",
-            "w": 0,
-            "c": 1
-          }
-        ],
-        "id": 288
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/Bug Bounty/Bug Bounty Index.md",
-        "wordCountStart": 35,
-        "charCountStart": 269,
-        "changes": [],
-        "id": 289
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/Programming/PHP.md",
-        "wordCountStart": 3,
-        "charCountStart": 45,
-        "changes": [],
-        "id": 290
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/CURL.md",
-        "wordCountStart": 396,
-        "charCountStart": 2866,
-        "changes": [],
-        "id": 291
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/HackTheBox/Sightless/Sightless Index.md",
-        "wordCountStart": 30,
-        "charCountStart": 197,
-        "changes": [
-          {
-            "timeKey": "09:25",
-            "w": -30,
-            "c": -197
-          }
-        ],
-        "id": 292
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/CPSA exam.md",
-        "wordCountStart": 4497,
-        "charCountStart": 43240,
-        "changes": [],
-        "id": 293
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/Ports/20 FTP data.md",
-        "wordCountStart": 16,
-        "charCountStart": 95,
-        "changes": [],
-        "id": 294
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/Ports/21 FTP (Control).md",
-        "wordCountStart": 16,
-        "charCountStart": 98,
-        "changes": [],
-        "id": 295
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/Ports/22 SSH.md",
-        "wordCountStart": 16,
-        "charCountStart": 91,
-        "changes": [],
-        "id": 296
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/Linux/FFmpeg.md",
-        "wordCountStart": 123,
-        "charCountStart": 1487,
-        "changes": [],
-        "id": 297
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/Youtube Channels.md",
-        "wordCountStart": 16,
-        "charCountStart": 148,
-        "changes": [],
-        "id": 298
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/Linux/OPENSSL.md",
-        "wordCountStart": 488,
-        "charCountStart": 3795,
-        "changes": [],
-        "id": 299
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/Linux/rclone.md",
-        "wordCountStart": 38,
-        "charCountStart": 248,
-        "changes": [],
-        "id": 300
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/Linux/Terminal.md",
-        "wordCountStart": 6,
-        "charCountStart": 64,
-        "changes": [],
-        "id": 301
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/Linux/VIM.md",
-        "wordCountStart": 14,
-        "charCountStart": 112,
-        "changes": [],
-        "id": 302
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/CISSP/D0 - Overview.md",
-        "wordCountStart": 144,
-        "charCountStart": 1057,
-        "changes": [
-          {
-            "timeKey": "09:30",
-            "w": 16,
-            "c": 128
-          }
-        ],
-        "id": 303
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/CISSP/D1 Security and Risk Management.md",
-        "wordCountStart": 680,
-        "charCountStart": 6289,
-        "changes": [
-          {
-            "timeKey": "09:30",
-            "w": 17,
-            "c": 128
-          },
-          {
-            "timeKey": "09:35",
-            "w": 8,
-            "c": 134
-          }
-        ],
-        "id": 304
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/CISSP/D2 Asset Security.md",
-        "wordCountStart": 367,
-        "charCountStart": 3180,
-        "changes": [
-          {
-            "timeKey": "09:30",
-            "w": -7,
-            "c": -62
-          },
-          {
-            "timeKey": "09:35",
-            "w": 19,
-            "c": 185
-          }
-        ],
-        "id": 305
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "Neural OS/03 Tactical_Memory/IT/CyberSec/CISSP/D1 Security and Risk Management.md",
-        "wordCountStart": 680,
-        "charCountStart": 6289,
-        "changes": [],
-        "id": 306
-      },
-      {
-        "date": "2025-10-10",
+        "date": "2025-10-13",
         "filePath": "Neural OS/03 Tactical_Memory/IT/CyberSec/CISSP/D2 Asset Security.md",
         "wordCountStart": 367,
         "charCountStart": 3180,
-        "changes": [],
-        "id": 307
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/UG Hacking.md",
-        "wordCountStart": 69,
-        "charCountStart": 612,
         "changes": [
           {
-            "timeKey": "09:40",
-            "w": -69,
-            "c": -612
-          }
-        ],
-        "id": 308
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/Privesc.md",
-        "wordCountStart": 806,
-        "charCountStart": 6226,
-        "changes": [
-          {
-            "timeKey": "09:40",
-            "w": 0,
-            "c": -165
-          },
-          {
-            "timeKey": "09:45",
-            "w": 0,
-            "c": -4
-          }
-        ],
-        "id": 309
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/OSINT.md",
-        "wordCountStart": 638,
-        "charCountStart": 5221,
-        "changes": [
-          {
-            "timeKey": "09:45",
-            "w": -56,
-            "c": -472
-          }
-        ],
-        "id": 310
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/Opportunities in Georgia Cybersecurity.md",
-        "wordCountStart": 3202,
-        "charCountStart": 21330,
-        "changes": [
-          {
-            "timeKey": "09:45",
-            "w": -3202,
-            "c": -21330
-          }
-        ],
-        "id": 311
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/oAuth2.md",
-        "wordCountStart": 6,
-        "charCountStart": 48,
-        "changes": [],
-        "id": 312
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/NetCat.md",
-        "wordCountStart": 10,
-        "charCountStart": 75,
-        "changes": [],
-        "id": 313
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/Hashcat.md",
-        "wordCountStart": 150,
-        "charCountStart": 1386,
-        "changes": [
-          {
-            "timeKey": "09:45",
-            "w": 13,
-            "c": 92
-          }
-        ],
-        "id": 314
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/Hacking.md",
-        "wordCountStart": 349,
-        "charCountStart": 2973,
-        "changes": [
-          {
-            "timeKey": "09:50",
-            "w": 20,
-            "c": 302
-          },
-          {
-            "timeKey": "09:55",
-            "w": 6,
-            "c": 39
-          }
-        ],
-        "id": 315
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/Google dorking.md",
-        "wordCountStart": 9,
-        "charCountStart": 105,
-        "changes": [
-          {
-            "timeKey": "09:55",
-            "w": 16,
-            "c": 119
-          },
-          {
-            "timeKey": "10:00",
-            "w": 12,
-            "c": 102
-          }
-        ],
-        "id": 316
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/Bug Bounty/Bug Bounty Web.md",
-        "wordCountStart": 6159,
-        "charCountStart": 35336,
-        "changes": [
-          {
-            "timeKey": "10:00",
-            "w": 14,
-            "c": -7
-          }
-        ],
-        "id": 317
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/Bug Bounty/SQLMap.md",
-        "wordCountStart": 72,
-        "charCountStart": 492,
-        "changes": [],
-        "id": 318
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/Bug Bounty/Virtual Machine.md",
-        "wordCountStart": 13,
-        "charCountStart": 77,
-        "changes": [
-          {
-            "timeKey": "10:00",
-            "w": -13,
-            "c": -77
-          }
-        ],
-        "id": 319
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/CISSP/Attack Surface.md",
-        "wordCountStart": 7,
-        "charCountStart": 66,
-        "changes": [
-          {
-            "timeKey": "10:05",
-            "w": 16,
-            "c": 128
-          }
-        ],
-        "id": 320
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/CISSP/D3 Security Architecture and Engineering.md",
-        "wordCountStart": 288,
-        "charCountStart": 2377,
-        "changes": [],
-        "id": 321
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/CISSP/D4 Communication and Network Security.md",
-        "wordCountStart": 126,
-        "charCountStart": 910,
-        "changes": [],
-        "id": 322
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/CISSP/D5 Identity and Access Management (IAM).md",
-        "wordCountStart": 34,
-        "charCountStart": 310,
-        "changes": [],
-        "id": 323
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/CISSP/D6 Security Assessment and Testing.md",
-        "wordCountStart": 58,
-        "charCountStart": 467,
-        "changes": [],
-        "id": 324
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/CISSP/D7 Security Operations.md",
-        "wordCountStart": 37,
-        "charCountStart": 326,
-        "changes": [],
-        "id": 325
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/CISSP/D8 Software Development Security.md",
-        "wordCountStart": 755,
-        "charCountStart": 6214,
-        "changes": [],
-        "id": 326
-      },
-      {
-        "date": "2025-10-10",
-        "filePath": "content/IT/CyberSec/CISSP/Misuse Cases.md",
-        "wordCountStart": 2,
-        "charCountStart": 24,
-        "changes": [
-          {
-            "timeKey": "10:05",
-            "w": 0,
-            "c": 1
-          }
-        ],
-        "id": 327
-      },
-      {
-        "date": "2025-10-12",
-        "filePath": "content/University/PR/Definitions.md",
-        "wordCountStart": 101,
-        "charCountStart": 1479,
-        "changes": [
-          {
-            "timeKey": "11:00",
-            "w": 76,
-            "c": 78
-          },
-          {
-            "timeKey": "11:05",
-            "w": 236,
-            "c": 2116
-          },
-          {
-            "timeKey": "11:10",
-            "w": 4,
-            "c": 474
-          },
-          {
-            "timeKey": "11:15",
-            "w": -8,
-            "c": -86
-          },
-          {
-            "timeKey": "11:20",
-            "w": 1,
-            "c": 2
-          },
-          {
-            "timeKey": "11:30",
-            "w": 34,
-            "c": 334
-          },
-          {
-            "timeKey": "11:35",
-            "w": 1,
-            "c": 13
-          },
-          {
-            "timeKey": "11:40",
-            "w": 66,
-            "c": 466
-          },
-          {
-            "timeKey": "11:45",
-            "w": 35,
-            "c": 255
-          },
-          {
-            "timeKey": "11:50",
-            "w": -10,
+            "timeKey": "10:10",
+            "w": -4,
             "c": -29
-          },
-          {
-            "timeKey": "12:00",
-            "w": 4,
-            "c": 46
           }
         ],
-        "id": 333
+        "id": 340
       },
       {
-        "date": "2025-10-12",
-        "filePath": "content/Callouts list.md",
+        "date": "2025-10-13",
+        "filePath": "Todos/მართვის მოწმობა.md",
+        "wordCountStart": 2728,
+        "charCountStart": 47712,
+        "changes": [],
+        "id": 341
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Todos/გადასვლა სოფელში.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 342
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Todos/Automate HH Global.md",
+        "wordCountStart": 28,
+        "charCountStart": 201,
+        "changes": [],
+        "id": 343
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Human/Intellect/IQ/Memory/Memory.md",
+        "wordCountStart": 391,
+        "charCountStart": 3379,
+        "changes": [],
+        "id": 344
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Todos/Uni/Java.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
           {
-            "timeKey": "11:25",
-            "w": 121,
-            "c": 791
+            "timeKey": "10:20",
+            "w": 32,
+            "c": 151
           },
           {
-            "timeKey": "11:30",
-            "w": 56,
-            "c": 322
+            "timeKey": "10:25",
+            "w": 107,
+            "c": 540
+          },
+          {
+            "timeKey": "10:30",
+            "w": 1,
+            "c": 8
+          },
+          {
+            "timeKey": "10:35",
+            "w": 13,
+            "c": 123
           }
         ],
-        "id": 334
+        "id": 345
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Todos/Uni/Probability & Statistics.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:45",
+            "w": 31,
+            "c": 488
+          },
+          {
+            "timeKey": "10:50",
+            "w": 9,
+            "c": 168
+          }
+        ],
+        "id": 346
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Todos/Uni/Machine Learning.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": 13,
+            "c": 137
+          }
+        ],
+        "id": 347
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Todos/Bayesian Probability.md",
+        "wordCountStart": 641,
+        "charCountStart": 4600,
+        "changes": [],
+        "id": 348
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Todos/Uni/PR.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 69,
+            "c": 349
+          }
+        ],
+        "id": 349
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Todos/FastAPI.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 350
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Todos/To-Do David.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 351
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Todos/Learn Ruby.md",
+        "wordCountStart": 28,
+        "charCountStart": 226,
+        "changes": [
+          {
+            "timeKey": "10:50",
+            "w": -1,
+            "c": -9
+          },
+          {
+            "timeKey": "11:00",
+            "w": 101,
+            "c": 722
+          }
+        ],
+        "id": 352
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Todos/კიბერ უსაფრთხოება.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 353
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Todos/DS & Algorithms.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 354
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Todos/Agile 🧑🏻‍💻.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 355
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Todos/AWS Associate.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 356
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Todos/Count vacation days.md",
+        "wordCountStart": 15,
+        "charCountStart": 92,
+        "changes": [],
+        "id": 357
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Todos/Dead Man’s Switch.md",
+        "wordCountStart": 263,
+        "charCountStart": 1945,
+        "changes": [],
+        "id": 358
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/CyberSec/AoDI CyberSec Course.md",
+        "wordCountStart": 2181,
+        "charCountStart": 19290,
+        "changes": [],
+        "id": 363
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "Todos/Count Money.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 364
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Money Index.md",
+        "wordCountStart": 47,
+        "charCountStart": 358,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": 4,
+            "c": 26
+          }
+        ],
+        "id": 365
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Earn money using debt.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "07:45",
+            "w": 439,
+            "c": 4299
+          },
+          {
+            "timeKey": "07:50",
+            "w": 170,
+            "c": 1344
+          }
+        ],
+        "id": 366
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/Money Wise.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": 773,
+            "c": 5752
+          },
+          {
+            "timeKey": "08:00",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "08:05",
+            "w": 0,
+            "c": 36
+          },
+          {
+            "timeKey": "08:10",
+            "w": 2,
+            "c": 48
+          }
+        ],
+        "id": 367
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "Neural OS/02 Strategic_Memory/Money/ROI (Return on Investment).md",
+        "wordCountStart": 270,
+        "charCountStart": 2679,
+        "changes": [
+          {
+            "timeKey": "08:10",
+            "w": 13,
+            "c": 86
+          }
+        ],
+        "id": 368
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "ROI.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "08:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 369
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/AWS Cert/AWS.md",
+        "wordCountStart": 40,
+        "charCountStart": 301,
+        "changes": [],
+        "id": 370
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/AWS Cert/AWS Associate.md",
+        "wordCountStart": 130,
+        "charCountStart": 1175,
+        "changes": [],
+        "id": 371
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/AWS Cert/AWS s3.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "09:05",
+            "w": 16,
+            "c": 104
+          },
+          {
+            "timeKey": "09:10",
+            "w": 31,
+            "c": 205
+          },
+          {
+            "timeKey": "09:15",
+            "w": 19,
+            "c": 161
+          },
+          {
+            "timeKey": "09:20",
+            "w": 6,
+            "c": 59
+          },
+          {
+            "timeKey": "09:25",
+            "w": 1,
+            "c": 9
+          }
+        ],
+        "id": 372
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/AWS Cert/AWS s3.md",
+        "wordCountStart": 73,
+        "charCountStart": 538,
+        "changes": [],
+        "id": 374
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "Books/Positive Discipline.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:05",
+            "w": 667,
+            "c": 4434
+          },
+          {
+            "timeKey": "00:10",
+            "w": 44,
+            "c": 382
+          },
+          {
+            "timeKey": "00:15",
+            "w": 15,
+            "c": 136
+          },
+          {
+            "timeKey": "00:20",
+            "w": 20,
+            "c": 176
+          }
+        ],
+        "id": 375
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "Books/Practicing mind.md",
+        "wordCountStart": 61,
+        "charCountStart": 586,
+        "changes": [],
+        "id": 376
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "Books/No drama discipline.md",
+        "wordCountStart": 813,
+        "charCountStart": 6171,
+        "changes": [],
+        "id": 377
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "Diary/2025-10-15.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "03:00",
+            "w": 29,
+            "c": 165
+          },
+          {
+            "timeKey": "03:05",
+            "w": 5,
+            "c": 36
+          }
+        ],
+        "id": 378
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "content/University/PR/Definitions.md",
+        "wordCountStart": 540,
+        "charCountStart": 5148,
+        "changes": [],
+        "id": 379
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "content/University/AI/Resources.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": 11,
+            "c": 111
+          },
+          {
+            "timeKey": "10:10",
+            "w": 13,
+            "c": 98
+          }
+        ],
+        "id": 380
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "content/University/Probability/Resources.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": 23,
+            "c": 232
+          }
+        ],
+        "id": 381
       }
     ]
   }
