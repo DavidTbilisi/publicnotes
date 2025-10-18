@@ -2109,6 +2109,85 @@
           }
         ],
         "id": 381
+      },
+      {
+        "date": "2025-10-17",
+        "filePath": "content/University/Probability/Resources.md",
+        "wordCountStart": 23,
+        "charCountStart": 232,
+        "changes": [],
+        "id": 386
+      },
+      {
+        "date": "2025-10-17",
+        "filePath": "content/University/PR/Definitions.md",
+        "wordCountStart": 540,
+        "charCountStart": 5148,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": 26,
+            "c": 259
+          },
+          {
+            "timeKey": "09:25",
+            "w": 32,
+            "c": 330
+          },
+          {
+            "timeKey": "09:30",
+            "w": 32,
+            "c": 331
+          },
+          {
+            "timeKey": "09:35",
+            "w": -32,
+            "c": -329
+          }
+        ],
+        "id": 387
+      },
+      {
+        "date": "2025-10-17",
+        "filePath": "content/University/PR/History.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "09:25",
+            "w": 62,
+            "c": 551
+          },
+          {
+            "timeKey": "09:35",
+            "w": 32,
+            "c": 332
+          },
+          {
+            "timeKey": "10:10",
+            "w": 38,
+            "c": 287
+          },
+          {
+            "timeKey": "10:15",
+            "w": 135,
+            "c": 928
+          },
+          {
+            "timeKey": "10:20",
+            "w": -10,
+            "c": -65
+          }
+        ],
+        "id": 388
+      },
+      {
+        "date": "2025-10-17",
+        "filePath": "content/Callouts list.md",
+        "wordCountStart": 177,
+        "charCountStart": 1113,
+        "changes": [],
+        "id": 389
       }
     ]
   }
