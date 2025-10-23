@@ -2188,6 +2188,142 @@
         "charCountStart": 1113,
         "changes": [],
         "id": 389
+      },
+      {
+        "date": "2025-10-22",
+        "filePath": "content/University/PR/History.md",
+        "wordCountStart": 257,
+        "charCountStart": 2033,
+        "changes": [
+          {
+            "timeKey": "23:20",
+            "w": 10,
+            "c": 77
+          }
+        ],
+        "id": 402
+      },
+      {
+        "date": "2025-10-22",
+        "filePath": "content/University/PR/Definitions.md",
+        "wordCountStart": 598,
+        "charCountStart": 5739,
+        "changes": [],
+        "id": 403
+      },
+      {
+        "date": "2025-10-22",
+        "filePath": "content/University/PR/Ethics.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:20",
+            "w": 109,
+            "c": 1503
+          },
+          {
+            "timeKey": "23:25",
+            "w": 300,
+            "c": 2342
+          },
+          {
+            "timeKey": "23:30",
+            "w": -68,
+            "c": -548
+          }
+        ],
+        "id": 404
+      },
+      {
+        "date": "2025-10-22",
+        "filePath": "content/University/PR/Terminology.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:30",
+            "w": 20,
+            "c": 161
+          }
+        ],
+        "id": 405
+      },
+      {
+        "date": "2025-10-22",
+        "filePath": "content/University/Probability/Resources.md",
+        "wordCountStart": 23,
+        "charCountStart": 232,
+        "changes": [
+          {
+            "timeKey": "23:30",
+            "w": 26,
+            "c": 275
+          },
+          {
+            "timeKey": "23:35",
+            "w": 33,
+            "c": 341
+          },
+          {
+            "timeKey": "23:40",
+            "w": 17,
+            "c": 164
+          }
+        ],
+        "id": 406
+      },
+      {
+        "date": "2025-10-23",
+        "filePath": "content/University/Cyber Security/Certifications.md",
+        "wordCountStart": 112,
+        "charCountStart": 908,
+        "changes": [],
+        "id": 407
+      },
+      {
+        "date": "2025-10-23",
+        "filePath": "content/University/Probability/Resources.md",
+        "wordCountStart": 99,
+        "charCountStart": 1012,
+        "changes": [],
+        "id": 408
+      },
+      {
+        "date": "2025-10-23",
+        "filePath": "content/University/AI/Resources.md",
+        "wordCountStart": 24,
+        "charCountStart": 209,
+        "changes": [],
+        "id": 409
+      },
+      {
+        "date": "2025-10-23",
+        "filePath": "content/University/AI/Pandas.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:05",
+            "w": 2,
+            "c": 26
+          }
+        ],
+        "id": 410
+      },
+      {
+        "date": "2025-10-23",
+        "filePath": "content/University/AI/Numpy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:05",
+            "w": 2,
+            "c": 25
+          }
+        ],
+        "id": 411
       }
     ]
   }
