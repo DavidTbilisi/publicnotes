@@ -24,3 +24,9 @@ date: 2025-10-17
 	- Measuring outputs — how well a program was executed and how effective its tactics were
 - **Managing the 24/7 News Cycle** - Public relations personnel will need to constantly monitor, analyze, and curate large amounts of data and respond to what is being reported or discussed in everything from traditional media to blogs, chat groups, and other social media.
 - **Continued Growth of Digital Media** - An example of “storytelling” are short videos produced by Intel that tell personal stories about how its technology is used by individuals
+
+## History of PR
+
+[[Public Relations]]
+Propaganda - first used by church 
+
