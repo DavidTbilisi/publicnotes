@@ -7,12 +7,47 @@ description:
 permalink:
 date: 2025-10-15
 ---
- 
+Population 
+Sample 
+
+```chartsview
+#-----------------#
+#- chart type    -#
+#-----------------#
+type: Pie
+
+#-----------------#
+#- chart data    -#
+#-----------------#
+data:
+  - type: "Population"
+    value: 1000
+  - type: "Sample"
+    value: 100
+
+#-----------------#
+#- chart options -#
+#-----------------#
+options:
+  angleField: "value"
+  colorField: "type"
+  radius: 0.5
+  label:
+    type: "spider"
+    content: "{percentage}\n{name}"
+  legend:
+    layout: "horizontal"
+    position: "bottom"
+```
+
+![](https://statisticseasily.com/wp-content/uploads/2023/06/sample-and-population-1.jpg)
+
+
 [Introduction to Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
 
-Mean
+Mean = Average
 std (standard deviation)
-Mode
+Mode - Repeated values in sample
 Median
 Coefficient of deviation
 
