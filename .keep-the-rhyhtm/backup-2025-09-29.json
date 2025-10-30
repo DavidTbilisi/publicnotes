@@ -2070,377 +2070,292 @@
         "id": 378
       },
       {
-        "date": "2025-10-15",
-        "filePath": "content/University/PR/Definitions.md",
-        "wordCountStart": 540,
-        "charCountStart": 5148,
+        "date": "2025-10-16",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/AWS Cert/AWS.md",
+        "wordCountStart": 40,
+        "charCountStart": 301,
         "changes": [],
-        "id": 379
+        "id": 382
       },
       {
-        "date": "2025-10-15",
-        "filePath": "content/University/AI/Resources.md",
+        "date": "2025-10-16",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/AWS Cert/AWS Associate.md",
+        "wordCountStart": 130,
+        "charCountStart": 1175,
+        "changes": [],
+        "id": 383
+      },
+      {
+        "date": "2025-10-16",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/AWS Cert/AWS sqs.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
           {
-            "timeKey": "10:05",
-            "w": 11,
-            "c": 111
+            "timeKey": "10:10",
+            "w": 12,
+            "c": 86
           },
           {
-            "timeKey": "10:10",
+            "timeKey": "10:15",
             "w": 13,
-            "c": 98
-          }
-        ],
-        "id": 380
-      },
-      {
-        "date": "2025-10-15",
-        "filePath": "content/University/Probability/Resources.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "10:10",
-            "w": 23,
-            "c": 232
-          }
-        ],
-        "id": 381
-      },
-      {
-        "date": "2025-10-17",
-        "filePath": "content/University/Probability/Resources.md",
-        "wordCountStart": 23,
-        "charCountStart": 232,
-        "changes": [],
-        "id": 386
-      },
-      {
-        "date": "2025-10-17",
-        "filePath": "content/University/PR/Definitions.md",
-        "wordCountStart": 540,
-        "charCountStart": 5148,
-        "changes": [
-          {
-            "timeKey": "08:45",
-            "w": 26,
-            "c": 259
-          },
-          {
-            "timeKey": "09:25",
-            "w": 32,
-            "c": 330
-          },
-          {
-            "timeKey": "09:30",
-            "w": 32,
-            "c": 331
-          },
-          {
-            "timeKey": "09:35",
-            "w": -32,
-            "c": -329
-          }
-        ],
-        "id": 387
-      },
-      {
-        "date": "2025-10-17",
-        "filePath": "content/University/PR/History.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "09:25",
-            "w": 62,
-            "c": 551
-          },
-          {
-            "timeKey": "09:35",
-            "w": 32,
-            "c": 332
-          },
-          {
-            "timeKey": "10:10",
-            "w": 38,
-            "c": 287
-          },
-          {
-            "timeKey": "10:15",
-            "w": 135,
-            "c": 928
+            "c": 139
           },
           {
             "timeKey": "10:20",
-            "w": -10,
-            "c": -65
-          }
-        ],
-        "id": 388
-      },
-      {
-        "date": "2025-10-17",
-        "filePath": "content/Callouts list.md",
-        "wordCountStart": 177,
-        "charCountStart": 1113,
-        "changes": [],
-        "id": 389
-      },
-      {
-        "date": "2025-10-22",
-        "filePath": "content/University/PR/History.md",
-        "wordCountStart": 257,
-        "charCountStart": 2033,
-        "changes": [
-          {
-            "timeKey": "23:20",
-            "w": 10,
-            "c": 77
-          }
-        ],
-        "id": 402
-      },
-      {
-        "date": "2025-10-22",
-        "filePath": "content/University/PR/Definitions.md",
-        "wordCountStart": 598,
-        "charCountStart": 5739,
-        "changes": [],
-        "id": 403
-      },
-      {
-        "date": "2025-10-22",
-        "filePath": "content/University/PR/Ethics.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "23:20",
-            "w": 109,
-            "c": 1503
-          },
-          {
-            "timeKey": "23:25",
-            "w": 300,
-            "c": 2342
-          },
-          {
-            "timeKey": "23:30",
-            "w": -68,
-            "c": -548
-          }
-        ],
-        "id": 404
-      },
-      {
-        "date": "2025-10-22",
-        "filePath": "content/University/PR/Terminology.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "23:30",
-            "w": 20,
-            "c": 161
-          }
-        ],
-        "id": 405
-      },
-      {
-        "date": "2025-10-22",
-        "filePath": "content/University/Probability/Resources.md",
-        "wordCountStart": 23,
-        "charCountStart": 232,
-        "changes": [
-          {
-            "timeKey": "23:30",
-            "w": 26,
-            "c": 275
-          },
-          {
-            "timeKey": "23:35",
-            "w": 33,
-            "c": 341
-          },
-          {
-            "timeKey": "23:40",
-            "w": 17,
-            "c": 164
-          }
-        ],
-        "id": 406
-      },
-      {
-        "date": "2025-10-23",
-        "filePath": "content/University/Cyber Security/Certifications.md",
-        "wordCountStart": 112,
-        "charCountStart": 908,
-        "changes": [],
-        "id": 407
-      },
-      {
-        "date": "2025-10-23",
-        "filePath": "content/University/Probability/Resources.md",
-        "wordCountStart": 99,
-        "charCountStart": 1012,
-        "changes": [
-          {
-            "timeKey": "10:15",
-            "w": 17,
-            "c": 148
-          },
-          {
-            "timeKey": "10:20",
-            "w": 0,
-            "c": 2
+            "w": 5,
+            "c": 37
           },
           {
             "timeKey": "10:25",
             "w": 0,
-            "c": -1
+            "c": 2
           }
         ],
-        "id": 408
+        "id": 384
       },
       {
-        "date": "2025-10-23",
-        "filePath": "content/University/AI/Resources.md",
-        "wordCountStart": 24,
-        "charCountStart": 209,
-        "changes": [],
-        "id": 409
-      },
-      {
-        "date": "2025-10-23",
-        "filePath": "content/University/AI/Pandas.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
+        "date": "2025-10-16",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/CyberSec/Privesc.md",
+        "wordCountStart": 806,
+        "charCountStart": 6226,
         "changes": [
           {
-            "timeKey": "00:05",
-            "w": 2,
-            "c": 26
-          }
-        ],
-        "id": 410
-      },
-      {
-        "date": "2025-10-23",
-        "filePath": "content/University/AI/Numpy.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "00:05",
-            "w": 2,
-            "c": 25
-          }
-        ],
-        "id": 411
-      },
-      {
-        "date": "2025-10-23",
-        "filePath": "content/University/Java/Definitions.md",
-        "wordCountStart": 146,
-        "charCountStart": 1700,
-        "changes": [],
-        "id": 413
-      },
-      {
-        "date": "2025-10-23",
-        "filePath": "content/University/Java/History.md",
-        "wordCountStart": 347,
-        "charCountStart": 2683,
-        "changes": [],
-        "id": 414
-      },
-      {
-        "date": "2025-10-23",
-        "filePath": "content/University/Java/Data types.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "22:40",
-            "w": 20,
-            "c": 197
-          },
-          {
-            "timeKey": "22:45",
-            "w": 45,
-            "c": 492
-          },
-          {
-            "timeKey": "22:55",
+            "timeKey": "17:50",
             "w": 0,
+            "c": -171
+          }
+        ],
+        "id": 385
+      },
+      {
+        "date": "2025-10-18",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/CyberSec/Privesc.md",
+        "wordCountStart": 806,
+        "charCountStart": 6055,
+        "changes": [],
+        "id": 392
+      },
+      {
+        "date": "2025-10-19",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/CyberSec/CISSP/D4 Communication and Network Security.md",
+        "wordCountStart": 126,
+        "charCountStart": 910,
+        "changes": [
+          {
+            "timeKey": "08:30",
+            "w": 2,
             "c": 28
+          }
+        ],
+        "id": 393
+      },
+      {
+        "date": "2025-10-19",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/Linux/Learning path.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": 769,
+            "c": 5063
+          },
+          {
+            "timeKey": "08:50",
+            "w": 72,
+            "c": 470
+          },
+          {
+            "timeKey": "08:55",
+            "w": 126,
+            "c": 933
+          }
+        ],
+        "id": 394
+      },
+      {
+        "date": "2025-10-19",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/Windows/Windows PrivEsc.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "09:15",
+            "w": 324,
+            "c": 5117
+          }
+        ],
+        "id": 395
+      },
+      {
+        "date": "2025-10-21",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/Windows/Windows PrivEsc.md",
+        "wordCountStart": 324,
+        "charCountStart": 5117,
+        "changes": [],
+        "id": 399
+      },
+      {
+        "date": "2025-10-21",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/CyberSec/Bug Bounty/Bug Bounty Index.md",
+        "wordCountStart": 35,
+        "charCountStart": 269,
+        "changes": [
+          {
+            "timeKey": "23:00",
+            "w": 5,
+            "c": 32
           },
           {
             "timeKey": "23:05",
-            "w": -43,
-            "c": -460
-          },
-          {
-            "timeKey": "23:20",
-            "w": 18,
-            "c": 143
+            "w": 3,
+            "c": 18
           }
         ],
-        "id": 415
+        "id": 400
       },
       {
-        "date": "2025-10-23",
+        "date": "2025-10-22",
+        "filePath": "Neural OS/03 Tactical_Memory/IT/CyberSec/Bug Bounty/Bug Bounty Index.md",
+        "wordCountStart": 43,
+        "charCountStart": 319,
+        "changes": [
+          {
+            "timeKey": "09:35",
+            "w": 5,
+            "c": 42
+          }
+        ],
+        "id": 401
+      },
+      {
+        "date": "2025-10-27",
+        "filePath": "Different views.md",
+        "wordCountStart": 110,
+        "charCountStart": 1162,
+        "changes": [],
+        "id": 423
+      },
+      {
+        "date": "2025-10-27",
+        "filePath": "Todos/Learn Ruby.md",
+        "wordCountStart": 128,
+        "charCountStart": 939,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 2,
+            "c": 14
+          }
+        ],
+        "id": 424
+      },
+      {
+        "date": "2025-10-27",
+        "filePath": "Budget App.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 254,
+            "c": 2976
+          }
+        ],
+        "id": 425
+      },
+      {
+        "date": "2025-10-28",
         "filePath": "content/University/Java/OOP.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
-        "id": 416
+        "changes": [
+          {
+            "timeKey": "11:20",
+            "w": 38,
+            "c": 212
+          },
+          {
+            "timeKey": "11:25",
+            "w": 55,
+            "c": 372
+          },
+          {
+            "timeKey": "11:35",
+            "w": -18,
+            "c": -140
+          }
+        ],
+        "id": 426
       },
       {
-        "date": "2025-10-23",
-        "filePath": "content/University/Java/Time.md",
+        "date": "2025-10-28",
+        "filePath": "content/University/Java/UML.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
           {
-            "timeKey": "23:15",
+            "timeKey": "11:30",
+            "w": 50,
+            "c": 477
+          },
+          {
+            "timeKey": "11:35",
+            "w": 35,
+            "c": 350
+          },
+          {
+            "timeKey": "11:40",
+            "w": 8,
+            "c": 107
+          },
+          {
+            "timeKey": "11:45",
             "w": 6,
-            "c": 49
-          },
-          {
-            "timeKey": "23:40",
-            "w": 82,
-            "c": 732
-          },
-          {
-            "timeKey": "23:45",
-            "w": 11,
-            "c": 60
-          },
-          {
-            "timeKey": "23:50",
-            "w": 58,
-            "c": 465
+            "c": 78
           }
         ],
-        "id": 417
+        "id": 427
       },
       {
-        "date": "2025-10-23",
-        "filePath": "content/University/Java/IO.md",
-        "wordCountStart": 18,
-        "charCountStart": 124,
+        "date": "2025-10-28",
+        "filePath": "content/University/AI/Scikit Learn.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
         "changes": [
           {
-            "timeKey": "23:15",
+            "timeKey": "14:00",
             "w": 2,
-            "c": 22
+            "c": 27
+          },
+          {
+            "timeKey": "14:05",
+            "w": 40,
+            "c": 268
+          },
+          {
+            "timeKey": "14:10",
+            "w": 69,
+            "c": 677
+          },
+          {
+            "timeKey": "17:25",
+            "w": 17,
+            "c": 144
+          },
+          {
+            "timeKey": "17:30",
+            "w": 9,
+            "c": 117
+          },
+          {
+            "timeKey": "21:35",
+            "w": 0,
+            "c": -2
           }
         ],
-        "id": 418
+        "id": 428
       }
     ]
   }
