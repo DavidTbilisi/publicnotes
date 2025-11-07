@@ -2378,6 +2378,35 @@
           }
         ],
         "id": 436
+      },
+      {
+        "date": "2025-11-04",
+        "filePath": "content/University/AI/Neuron Network.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": 26,
+            "c": 240
+          },
+          {
+            "timeKey": "19:35",
+            "w": 4,
+            "c": 26
+          },
+          {
+            "timeKey": "19:45",
+            "w": 2,
+            "c": 30
+          },
+          {
+            "timeKey": "20:45",
+            "w": 5,
+            "c": 35
+          }
+        ],
+        "id": 440
       }
     ]
   }
