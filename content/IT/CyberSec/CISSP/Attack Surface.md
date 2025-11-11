@@ -10,5 +10,4 @@ date: 2025-10-10
 ![[attack_surface.png]]
 More functionality - larger attack surface
 
-![[ 
-attack_surface_1.jpg]]
+![[attack_surface_1.jpg]]

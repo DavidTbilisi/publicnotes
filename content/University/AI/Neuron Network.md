@@ -3,7 +3,6 @@ aliases:
 title: Example Title
 draft: true
 tags:
-  - example-tag
 description:
 permalink:
 date: 2025-11-04

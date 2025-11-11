@@ -18,7 +18,6 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 ```python
 model = LinearRegression()
-
 ```
 
 ## Fit the model/algorithm and use it to make predictions on data
@@ -28,7 +27,6 @@ model.fit(X_train, y_train)
 
 ## Evaluate a model
 ```python
-
 sample = pd.DataFrame([{
     'Age': 25,
     'Weight (kg)': 68,
