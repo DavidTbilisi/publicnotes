@@ -2407,6 +2407,336 @@
           }
         ],
         "id": 440
+      },
+      {
+        "date": "2025-11-10",
+        "filePath": "content/University/AI/Neuron Network.md",
+        "wordCountStart": 37,
+        "charCountStart": 331,
+        "changes": [
+          {
+            "timeKey": "23:50",
+            "w": -1,
+            "c": -16
+          }
+        ],
+        "id": 493
+      },
+      {
+        "date": "2025-11-10",
+        "filePath": "content/University/AI/Different models.md",
+        "wordCountStart": 538,
+        "charCountStart": 4504,
+        "changes": [
+          {
+            "timeKey": "23:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 494
+      },
+      {
+        "date": "2025-11-10",
+        "filePath": "content/University/AI/Scikit Learn.md",
+        "wordCountStart": 137,
+        "charCountStart": 1231,
+        "changes": [],
+        "id": 495
+      },
+      {
+        "date": "2025-11-10",
+        "filePath": "content/University/AI/SVM, kNN, Bayes.md",
+        "wordCountStart": 540,
+        "charCountStart": 4133,
+        "changes": [],
+        "id": 496
+      },
+      {
+        "date": "2025-11-10",
+        "filePath": "CODE_OF_CONDUCT.md",
+        "wordCountStart": 921,
+        "charCountStart": 6316,
+        "changes": [],
+        "id": 497
+      },
+      {
+        "date": "2025-11-10",
+        "filePath": "content/Callouts list.md",
+        "wordCountStart": 177,
+        "charCountStart": 1113,
+        "changes": [],
+        "id": 498
+      },
+      {
+        "date": "2025-11-10",
+        "filePath": "content/IT/Linux/Linux index.md",
+        "wordCountStart": 14,
+        "charCountStart": 137,
+        "changes": [],
+        "id": 499
+      },
+      {
+        "date": "2025-11-10",
+        "filePath": "content/IT/Linux/Commands/AWK.md",
+        "wordCountStart": 16,
+        "charCountStart": 142,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 1,
+            "c": 15
+          }
+        ],
+        "id": 500
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/CyberSec/CISSP/Attack Surface.md",
+        "wordCountStart": 23,
+        "charCountStart": 194,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": -1,
+            "c": -2
+          }
+        ],
+        "id": 501
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/CyberSec/CURL.md",
+        "wordCountStart": 396,
+        "charCountStart": 2866,
+        "changes": [],
+        "id": 502
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/CyberSec/Google dorking.md",
+        "wordCountStart": 37,
+        "charCountStart": 326,
+        "changes": [],
+        "id": 503
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/CyberSec/Hacking.md",
+        "wordCountStart": 375,
+        "charCountStart": 3314,
+        "changes": [],
+        "id": 504
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/CyberSec/Hashcat.md",
+        "wordCountStart": 163,
+        "charCountStart": 1478,
+        "changes": [],
+        "id": 505
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/CyberSec/NetCat.md",
+        "wordCountStart": 10,
+        "charCountStart": 75,
+        "changes": [],
+        "id": 506
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/CyberSec/oAuth2.md",
+        "wordCountStart": 6,
+        "charCountStart": 48,
+        "changes": [],
+        "id": 507
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/CyberSec/OSINT.md",
+        "wordCountStart": 582,
+        "charCountStart": 4749,
+        "changes": [],
+        "id": 508
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/Electronics.md",
+        "wordCountStart": 36,
+        "charCountStart": 313,
+        "changes": [
+          {
+            "timeKey": "00:05",
+            "w": -36,
+            "c": -313
+          }
+        ],
+        "id": 509
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/Programming/Cpp.md",
+        "wordCountStart": 18,
+        "charCountStart": 148,
+        "changes": [],
+        "id": 510
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/Programming/JavaScript.md",
+        "wordCountStart": 3,
+        "charCountStart": 45,
+        "changes": [],
+        "id": 511
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/Programming/Javascript Plugin.md",
+        "wordCountStart": 74,
+        "charCountStart": 693,
+        "changes": [
+          {
+            "timeKey": "00:05",
+            "w": -74,
+            "c": -693
+          }
+        ],
+        "id": 512
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/Programming/Assembly language.md",
+        "wordCountStart": 330,
+        "charCountStart": 4318,
+        "changes": [],
+        "id": 513
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/Programming/Laravel.md",
+        "wordCountStart": 9,
+        "charCountStart": 115,
+        "changes": [],
+        "id": 514
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/Programming/Logging.md",
+        "wordCountStart": 124,
+        "charCountStart": 1029,
+        "changes": [],
+        "id": 515
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/Programming/MATHEMATICS FOR COMPUTER SCIENCE.md",
+        "wordCountStart": 24,
+        "charCountStart": 225,
+        "changes": [],
+        "id": 516
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/Programming/ORM.md",
+        "wordCountStart": 353,
+        "charCountStart": 2614,
+        "changes": [],
+        "id": 517
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/CyberSec/Buffer overflow.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 518
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/CyberSec/CPSA exam.md",
+        "wordCountStart": 4497,
+        "charCountStart": 43240,
+        "changes": [],
+        "id": 519
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/University/AI/Different models.md",
+        "wordCountStart": 538,
+        "charCountStart": 4504,
+        "changes": [],
+        "id": 520
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/University/AI/Scikit Learn.md",
+        "wordCountStart": 137,
+        "charCountStart": 1231,
+        "changes": [
+          {
+            "timeKey": "00:10",
+            "w": 0,
+            "c": -2
+          }
+        ],
+        "id": 521
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/CyberSec/CISSP/CCNA.excalidraw.md",
+        "wordCountStart": 1701,
+        "charCountStart": 50624,
+        "changes": [
+          {
+            "timeKey": "00:10",
+            "w": -1701,
+            "c": -50624
+          }
+        ],
+        "id": 522
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/Windows/Windows.excalidraw.md",
+        "wordCountStart": 1860,
+        "charCountStart": 56808,
+        "changes": [
+          {
+            "timeKey": "00:10",
+            "w": -1860,
+            "c": -56808
+          }
+        ],
+        "id": 523
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "Hacking.excalidraw.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 524
+      },
+      {
+        "date": "2025-11-11",
+        "filePath": "content/IT/Programming/Roblox/RobloxScript.excalidraw.md",
+        "wordCountStart": 233,
+        "charCountStart": 8957,
+        "changes": [
+          {
+            "timeKey": "00:10",
+            "w": -233,
+            "c": -8957
+          }
+        ],
+        "id": 525
       }
     ]
   }
